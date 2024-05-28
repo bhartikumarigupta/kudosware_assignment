@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872067306299",
+    "project_id": "weddinger820",
+    "storage_bucket": "weddinger820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872067306299:android:2158320e15d671a775dd1e",
+        "android_client_info": {
+          "package_name": "com.example.student_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG__jcc7ASFHm6NdLKzRWz3uCWtvdKQmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872067306299:android:b8b5ab87f672454775dd1e",
+        "android_client_info": {
+          "package_name": "com.example.weddinger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG__jcc7ASFHm6NdLKzRWz3uCWtvdKQmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
